@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Bistro/static/css/main.42300d1c.css",
+    "main.js": "/Bistro/static/js/main.33c87939.js",
+    "static/media/about-background-image.png": "/Bistro/static/media/about-background-image.bb3f0878b9afa22ff9b0.png",
+    "static/media/home-banner-image.png": "/Bistro/static/media/home-banner-image.a41849b23e5c36d66717.png",
+    "static/media/Logo.svg": "/Bistro/static/media/Logo.42680d81c7c03ee547ca760d6a6050e9.svg",
+    "static/media/home-banner-background.png": "/Bistro/static/media/home-banner-background.585600da7ff85661555e.png",
+    "index.html": "/Bistro/index.html",
+    "main.42300d1c.css.map": "/Bistro/static/css/main.42300d1c.css.map",
+    "main.33c87939.js.map": "/Bistro/static/js/main.33c87939.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42300d1c.css",
+    "static/js/main.33c87939.js"
+  ]
+}
